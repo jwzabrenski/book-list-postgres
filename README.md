@@ -1,4 +1,4 @@
-# BookList_RazorPostgres
+# BookList RazorPostgres
 Razor Pages BookList project from Bhrugen Patel's .Net Core 2.1 Udemy course using PostgreSQL instead of MS SQL Server.
 
 To use PostgreSQL as your db, first install the EntityFrameworkCore NuGet package:
